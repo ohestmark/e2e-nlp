@@ -1,2 +1,4 @@
-## This is an end to end NLP project
+## This is an end to end text summarization NLP project 
 Author: Olivia Hestmark
+Based on [End To End NLP Project Implementation With Deployment Github Action- Text Summarization- Krish Naik](https://www.youtube.com/watch?v=p7V4Aa7qEpw&t=484s)
+public repository for a personal project
